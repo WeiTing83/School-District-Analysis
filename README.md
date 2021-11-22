@@ -26,7 +26,7 @@ increases from 70% to 97%. The overall passing percentage increases from
 passing percentage than 10-12th grade students. Thus, after removing their
 scores, the overall passing percentage significantly get increased.
 >
-### Top Five schools
+### Top Five Schools
 ![top_five_schools](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/top_five_schools.png)
 
 + Thomas High School becomes top two school base on overall passing percentage
