@@ -7,7 +7,7 @@ district analysis and evaluate the impact for school district analysis.
 >
 ## Analysis data
 >
-### distric analysis summary
+### District Analysis Summary
 ![distric_summary](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/distric_summary.png)
 
 + All of scores are dropped around 0.1%.
@@ -15,7 +15,7 @@ district analysis and evaluate the impact for school district analysis.
 student population in the school district. Therefore, statistically it doesn't have
 big impact to the overall scores. 
 >
-### school analysis summary
+### School Analysis Summary
 ![school_summary](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/school_summary.png)
 
 + After removing scores of Thomas High School ninth graders, passing math
@@ -26,18 +26,18 @@ increases from 70% to 97%. The overall passing percentage increases from
 passing percentage than 10-12th grade students. Thus, after removing their
 scores, the overall passing percentage significantly get increased.
 >
-### top_five_schools
+### Top Five schools
 ![top_five_schools](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/top_five_schools.png)
 
 + Thomas High School becomes top two school base on overall passing percentage
 + Top five schools are all charter school
 >
-### Scores by school spending
+### Scores by School Spending
 ![spending_range](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/speading_range.png)
 
 + Money spent per student is negative correlation with overall passing percentage.
 >
-### Scores by school size & Type by size
+### Scores by School Size & School Type by Size
 ![school_size_type](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/school_size_type.png)
 
 +  Small and medium schools (&lt;2000 students) have higher overall passing
@@ -46,7 +46,7 @@ percentage, and all of them are charter schools.
 charter school which is categorized as a large size school, has overall passing
 percentage higher than other large schools.
 >
-### Scores by school type & Type by spending
+### Scores by School Type & Type by Spending
 ![type_scores_spending](https://github.com/WeiTing83/School-District-Analysis/blob/main/Resources/type_scores_spending.png)
 
 + All Charter schools have higher overall passing percentage.
